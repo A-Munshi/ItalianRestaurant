@@ -146,6 +146,7 @@ body {
     font-size: 18px;
     cursor: pointer;
     transition: background-color 0.3s;
+    font-family: "Playwrite US Trad", cursive;
 }
   
 .part2 .button:hover {
